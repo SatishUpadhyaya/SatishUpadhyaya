@@ -21,9 +21,11 @@ Here are some ideas to get you started:
 
 ## Hi there 👋
 
-I am a student and a software engineer.
+I'm Satish, and I'm a software engineer at Microsoft.
 
-- ⚙️ I’m currently working on a startup with friends, as well as in the SBS group as an undergraduate researcher.
-- 🦄 I previously worked at Microsoft and Workday as a SWE intern.
-- 📓 I’m currently learning machine learning, applying it via [PyTorch](https://pytorch.org/).
+- ⚙️ During my undergraduate, I worked in the [SBS](https://www.colorado.edu/lab/sbs) lab as an undergraduate researcher, advised by Professor [Wangda Zuo](https://www.colorado.edu/ceae/wangda-zuo).
+- 🦄 I previously intered at Workday and Microsoft.
+- 🧑‍💼 I’m working on a startup which is currently in a stealth mode.
 - 🔧 Languages: Python, C, C++, C#, Typescript
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=satishupadhyaya&label=Profile%20views&color=0e75b6&style=classic" alt="y330" /> </p>
