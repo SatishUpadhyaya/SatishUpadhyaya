@@ -24,7 +24,7 @@ I'm Satish, a software engineer at Microsoft, building scalable backend and netw
 🎓 Currently pursuing my **M.S. in Computer Science (OMSCS)** at Georgia Tech, specializing in **Artificial Intelligence**.  
 ⚙️ Former undergraduate researcher in the SBS Lab at CU Boulder, advised by Professor Wangda Zuo.  
 💼 Previous experience at **Workday** and as a **Microsoft intern** before joining full-time.  
-🚀 Exploring entrepreneurship through a early-stage projects.
+🚀 Exploring entrepreneurship through a early-stage projects.  
 🔧 Languages & Tools: Python, C, C++, C#, TypeScript, Java, React, Azure, Git.  
 
 ---
