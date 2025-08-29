@@ -21,11 +21,19 @@ Here are some ideas to get you started:
 
 ## Hi there 👋
 
-I'm Satish, and I'm a software engineer at Microsoft.
+I'm Satish, and I'm a software engineer at **Microsoft** working on backend systems and networking.
 
-- ⚙️ During my undergraduate, I worked in the [SBS](https://www.colorado.edu/lab/sbs) lab as an undergraduate researcher, advised by Professor [Wangda Zuo](https://www.colorado.edu/ceae/wangda-zuo).
-- 🦄 I previously intered at Workday and Microsoft.
-- 🧑‍💼 I’m working on a startup which is currently in a stealth mode.
-- 🔧 Languages: Python, C, C++, C#, Typescript
+🎓 Currently pursuing my **M.S. in Computer Science (OMSCS)** at Georgia Tech, specializing in **Artificial Intelligence**.  
+⚙️ Former undergraduate researcher in the SBS Lab at CU Boulder, advised by Professor Wangda Zuo.  
+💼 Previous experience at **Workday** and as a **Microsoft intern** before joining full-time.  
+🚀 Exploring entrepreneurship through a **stealth-mode startup**.  
+🔧 Languages & Tools: Python, C, C++, C#, TypeScript, Java, React, Azure, Git.  
+
+---
+
+### 🌱 What I’m focusing on
+- AI/ML applications and intelligent systems  
+- Scalable backend design & networking  
+- Building products that bridge research and industry  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satishupadhyaya&label=Profile%20views&color=0e75b6&style=classic" alt="y330" /> </p>
